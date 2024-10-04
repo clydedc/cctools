@@ -7,7 +7,7 @@
   Clyde
 </h1>
 <p align="center">
-  By clyde telegram : 
+  By clyde telegram : https://t.me/leakdediscord
  </p>
 <p align="center"> 
   <kbd>
@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/clydedc/rankbot?style=flat">
-<img src="https://img.shields.io/github/stars/clydedc/rankbot?color=brightgreen">
-<img src="https://img.shields.io/github/forks/clydedc/rankbot?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/clydedc/cctools?style=flat">
+<img src="https://img.shields.io/github/stars/clydedc/cctools?color=brightgreen">
+<img src="https://img.shields.io/github/forks/clydedc/cctools?color=brightgreen">
 </p>
 
 
@@ -53,8 +53,7 @@
 ```diff
 > Default:
 Sample Features (81):
-- No Commands
-- Ping and bot give role
+- 
 
 
 > + Click on ⭐ for support me!
@@ -82,7 +81,7 @@ v1 ⋮ 2023-24-11
 
 ### ⚠️ 〢 Note
 
-CECI M'APARTIEN !
+ONLY FOR EDUCATIONAL PURPOSE §
 
 <p align="center"><a href=#top>Back to Top</a></p>
 
