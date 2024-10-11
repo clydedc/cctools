@@ -81,7 +81,7 @@ v1 ⋮ 2023-24-11
 
 ### ⚠️ 〢 Note
 
-ONLY FOR EDUCATIONAL PURPOSE §
+ONLY FOR EDUCATIONAL PURPOSE 
 
 <p align="center"><a href=#top>Back to Top</a></p>
 
