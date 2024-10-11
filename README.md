@@ -1,7 +1,7 @@
 # cctools
 <a id="top"></a>
 
-#
+# CREATE FILE CALLED "data" in the file where you install
 
 <h1 align="center">
   Clyde
