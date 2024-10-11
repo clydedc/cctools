@@ -11,7 +11,7 @@
  </p>
 <p align="center"> 
   <kbd>
-<img src="[tg://resolve?domain=leakdediscord&" width="328"></img>
+<img src="tg://resolve?domain=leakdediscord" width="328"></img>
   </kbd>
 </p>
 
